@@ -1,0 +1,12 @@
+{
+  "Name": "Cranetop Windmill Replacement",
+  "Version": "1.0.0",
+  "Id": "Oiltanker.CranetopWindmillReplacement",
+  "MinimumGameVersion": "1.1.1",
+  "Description": "Replaces the Crane Heads mod's Cranetop Windmill head with a new windmill built from the vanilla Large Wind Turbine parts.\n\n[list]\n[*]Same building and template name - existing saves keep working\n[*]Original cost and windmill bonus unchanged\n[*]Rotor, shaft and head spin exactly like the vanilla Large Wind Turbine\n[/list]\n\n[b]Requires:[/b] Crane Heads (and its dependencies).",
+  "RequiredMods": [
+    {
+      "Id": "CraneHeads"
+    }
+  ]
+}

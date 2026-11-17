@@ -1,0 +1,12 @@
+bin/
+obj/
+lib_public/
+tools/Publicizer/bin/
+tools/Publicizer/obj/
+*.user
+*.zip
+__pycache__/
+*.pyc
+*.blend1
+PLAN.md
+STATE.md
